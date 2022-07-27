@@ -3,7 +3,7 @@
 FROM centos:7
 
 MAINTAINER kmille36 "haithuongpro2711@gmail.com"
-ENV REFRESHED_AT 2018-10-29
+ENV REFRESHED_AT 2022-7-27
 
 LABEL io.k8s.description="Headless VNC Container with Xfce window manager, firefox and chromium" \
       io.k8s.display-name="Headless VNC Container based on Centos" \
